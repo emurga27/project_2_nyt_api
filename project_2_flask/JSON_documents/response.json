@@ -1,0 +1,448 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+    "has_more": true,
+    "num_results": 20,
+    "results": [
+        {
+            "display_title": "The Dark and the Wicked",
+            "mpaa_rating": "Not Rated",
+            "critics_pick": 1,
+            "byline": "Jeannette Catsoulis",
+            "headline": "\u2018The Dark and the Wicked\u2019 Review: Home, but Not Alone",
+            "summary_short": "A family is threatened by a diabolical entity in this frightening and emotionally fraught horror movie.",
+            "publication_date": "2020-11-05",
+            "opening_date": "2020-11-06",
+            "date_updated": "2020-11-10 17:44:16",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/11/05/movies/the-dark-and-the-wicked-review.html",
+                "suggested_link_text": "Read the New York Times Review of The Dark and the Wicked"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/11/06/arts/darkand2/darkand2-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Let Him Go",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Glenn Kenny",
+            "headline": "\u2018Let Him Go\u2019 Review: From Grief to Terror",
+            "summary_short": "The mature chemistry of Kevin Costner and Diane Lane goes a long way in this searing thriller.",
+            "publication_date": "2020-11-05",
+            "opening_date": "2020-11-06",
+            "date_updated": "2020-11-10 17:44:15",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/11/05/movies/let-him-go-review.html",
+                "suggested_link_text": "Read the New York Times Review of Let Him Go"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/11/06/arts/lethimgo1/lethimgo1-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Raining in the Mountain",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Glenn Kenny",
+            "headline": "\u2018Raining in the Mountain\u2019 Review: A Martial Arts Gem From 1979",
+            "summary_short": "This recently restored film by King Hu is a spectacular, exhilarating entertainment.",
+            "publication_date": "2020-10-29",
+            "opening_date": null,
+            "date_updated": "2020-10-29 15:58:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/29/movies/raining-in-the-mountain-review.html",
+                "suggested_link_text": "Read the New York Times Review of Raining in the Mountain"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/29/arts/29raining/29raining-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "City Hall",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Manohla Dargis",
+            "headline": "\u2018City Hall\u2019 Review: Frederick Wiseman, for the People",
+            "summary_short": "In his latest movie, the celebrated documentarian explores the ideas and ideals, the faces and spaces of Boston\u2019s City Hall.",
+            "publication_date": "2020-10-28",
+            "opening_date": "2020-10-28",
+            "date_updated": "2020-10-28 15:56:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/28/movies/city-hall-review.html",
+                "suggested_link_text": "Read the New York Times Review of City Hall"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/30/arts/00city-hall-mayor/merlin_178951251_833a1732-d893-4b58-b133-bd265145c6c0-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "What the Constitution Means to Me",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Elisabeth Vincentelli",
+            "headline": "\u2018What the Constitution Means to Me\u2019 Review: Pursuits of Happiness",
+            "summary_short": "The timing could not be better for Heidi Schreck\u2019s affecting play about the Constitution\u2019s impact on our daily lives, now streaming on Amazon.",
+            "publication_date": "2020-10-22",
+            "opening_date": "2020-10-16",
+            "date_updated": "2020-10-22 17:12:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/22/movies/what-the-constitution-means-to-me-review.html",
+                "suggested_link_text": "Read the New York Times Review of What the Constitution Means to Me"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/22/arts/constitution1/merlin_178810461_91635d97-eb31-4e4d-8ad9-57e22ad33130-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Synchronic",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Glenn Kenny",
+            "headline": "\u2018Synchronic\u2019 Review: Twisted, Trippy Trips Through Time",
+            "summary_short": "The filmmakers Justin Benson and Aaron Moorhead bend reality in this drug-fueled sci-fi horror.",
+            "publication_date": "2020-10-22",
+            "opening_date": "2020-10-23",
+            "date_updated": "2020-11-10 17:44:07",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/22/movies/synchronic-review.html",
+                "suggested_link_text": "Read the New York Times Review of Synchronic"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/22/arts/22synchronic-art/22synchronic-art-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Ham on Rye",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Glenn Kenny",
+            "headline": "\u2018Ham on Rye\u2019 Review: Coming of Age, With Existential Unease",
+            "summary_short": "Tyler Taormina\u2019s debut film starts in the vein of classic high-school comedies until it turns toward a dark surrealism.",
+            "publication_date": "2020-10-22",
+            "opening_date": null,
+            "date_updated": "2020-10-22 11:04:07",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/22/movies/ham-on-rye-review.html",
+                "suggested_link_text": "Read the New York Times Review of Ham on Rye"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/23/arts/22hamonrye/22hamonrye-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Belly of the Beast",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Lovia Gyarkye",
+            "headline": "\u2018Belly of the Beast\u2019 Review: Fighting for Incarcerated Women",
+            "summary_short": "Erika Cohn\u2019s new documentary focuses on the sterilization of women in California prisons, and the battle for a law against the practice.",
+            "publication_date": "2020-10-15",
+            "opening_date": null,
+            "date_updated": "2020-10-15 16:02:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/15/movies/belly-of-the-beast-review.html",
+                "suggested_link_text": "Read the New York Times Review of Belly of the Beast"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/15/arts/15belly/15belly-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "White Riot",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Glenn Kenny",
+            "headline": "\u2018White Riot\u2019 Review: When Punk\u2019s Stars Banded Against Racism",
+            "summary_short": "Rubika Shah\u2019s documentary about the British organization Rock Against Racism is a compelling depiction of political organizing in the 1970s.",
+            "publication_date": "2020-10-15",
+            "opening_date": null,
+            "date_updated": "2020-10-15 11:04:06",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/15/movies/white-riot-review.html",
+                "suggested_link_text": "Read the New York Times Review of White Riot"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/16/arts/15white-riot-sub/merlin_178331841_31e5e021-cb2f-44be-af09-0902e353bb26-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Martin Eden",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Manohla Dargis",
+            "headline": "\u2018Martin Eden\u2019 Review: Reading and Writing His Way Out of the Pit",
+            "summary_short": "In this bold adaptation of the Jack London novel, a young writer suffers, fights and pays as he stands alone against the world.",
+            "publication_date": "2020-10-15",
+            "opening_date": "2020-10-16",
+            "date_updated": "2020-11-10 17:44:03",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/15/movies/martin-eden-review.html",
+                "suggested_link_text": "Read the New York Times Review of Martin Eden"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/14/arts/00martin-eden-promo/merlin_178332207_74a5a117-69bb-4780-9876-5899623b9a28-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "The Forty-Year-Old Version",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "A.O. Scott",
+            "headline": "\u2018The Forty-Year-Old Version\u2019 Review: Rapper\u2019s Delight",
+            "summary_short": "Radha Blank\u2019s film is an intimate, epic reckoning with age, ambition and everything else.",
+            "publication_date": "2020-10-08",
+            "opening_date": "2020-10-09",
+            "date_updated": "2020-10-12 16:44:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/08/movies/the-forty-year-old-version-review.html",
+                "suggested_link_text": "Read the New York Times Review of The Forty-Year-Old Version"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/08/arts/08FORTY-1/08FORTY-1-mediumThreeByTwo210-v2.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Time",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 1,
+            "byline": "Lisa Kennedy",
+            "headline": "\u2018Time\u2019 Review: What We Really Mean When We Say Mass Incarceration",
+            "summary_short": "In Garrett Bradley\u2019s moving documentary, a woman fights for her family and justice as a husband and father\u2019s absence reverberates.",
+            "publication_date": "2020-10-08",
+            "opening_date": "2020-10-16",
+            "date_updated": "2020-10-12 16:44:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/08/movies/time-review.html",
+                "suggested_link_text": "Read the New York Times Review of Time"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/09/arts/08time-review2/merlin_177965628_7b2a5b02-4fc8-4804-8f86-1816a1767f5d-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Black Box",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Glenn Kenny",
+            "headline": "\u2018Black Box\u2019 Review: Memory and Loss",
+            "summary_short": "An amnesiac begins to see strange visions in this engrossing thriller streaming on Amazon Prime Video.",
+            "publication_date": "2020-10-06",
+            "opening_date": "2020-10-06",
+            "date_updated": "2020-10-06 11:04:03",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/06/movies/black-box-review.html",
+                "suggested_link_text": "Read the New York Times Review of Black Box"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/05/arts/blackbox1/blackbox1-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "David Attenborough: A Life on Our Planet",
+            "mpaa_rating": "PG",
+            "critics_pick": 1,
+            "byline": "Natalia Winkelman",
+            "headline": "\u2018David Attenborough: A Life on Our Planet\u2019 Review: Ruin and Regrowth",
+            "summary_short": "In this moving documentary, the famed naturalist maps how steeply the planet\u2019s biodiversity has diminished over his lifetime.",
+            "publication_date": "2020-10-04",
+            "opening_date": "2020-10-04",
+            "date_updated": "2020-10-04 11:04:03",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/04/movies/david-attenborough-a-life-on-our-planet-review.html",
+                "suggested_link_text": "Read the New York Times Review of David Attenborough: A Life on Our Planet"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/02/arts/david1/david1-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "On the Rocks",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Manohla Dargis",
+            "headline": "\u2018On the Rocks\u2019 Review: Daddy Dearest and His Late Bloomer",
+            "summary_short": "In Sofia Coppola\u2019s latest, Rashida Jones plays a woman worried about her marriage. Who\u2019s she gonna call? Bill Murray, a.k.a. Dad.",
+            "publication_date": "2020-10-01",
+            "opening_date": "2020-10-23",
+            "date_updated": "2020-10-31 16:44:01",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/01/movies/on-the-rocks-review.html",
+                "suggested_link_text": "Read the New York Times Review of On the Rocks"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/02/arts/00ontherocks/00ontherocks-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Possessor Uncut",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Glenn Kenny",
+            "headline": "\u2018Possessor\u2019 Review: It\u2019s by a Cronenberg, but Not the One You Think",
+            "summary_short": "The assassin in this film by Brandon Cronenberg weaponizes the human mind and body of an unsuspecting stranger who has access to her target.",
+            "publication_date": "2020-10-01",
+            "opening_date": "2020-10-02",
+            "date_updated": "2020-10-31 16:44:01",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/01/movies/possessor-review.html",
+                "suggested_link_text": "Read the New York Times Review of Possessor Uncut"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/02/arts/01possessorpix/01possessorpix-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Dick Johnson Is Dead",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 1,
+            "byline": "Manohla Dargis",
+            "headline": "\u2018Dick Johnson Is Dead\u2019 Review: A Father\u2019s Painful, Funny Goodbye",
+            "summary_short": "With the help of her father, the documentary filmmaker Kirsten Johnson made a surprising, endearing movie about his death.",
+            "publication_date": "2020-10-01",
+            "opening_date": "2020-10-02",
+            "date_updated": "2020-10-17 16:44:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/10/01/movies/dick-johnson-is-dead-review.html",
+                "suggested_link_text": "Read the New York Times Review of Dick Johnson Is Dead"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/02/arts/00dickjohnson-2/merlin_177592353_4e5ba5a4-80dd-4463-88a5-5f0456141e5c-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "American Murder: The Family Next Door",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Bilal Qureshi",
+            "headline": "\u2018American Murder: The Family Next Door\u2019 Review: Tragedy Reconstructed",
+            "summary_short": "The Watts murders are revisited in this devastating Netflix documentary about marriage, social media and violence against women.",
+            "publication_date": "2020-09-30",
+            "opening_date": "2020-09-30",
+            "date_updated": "2020-09-30 11:04:03",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/09/30/movies/american-murder-the-family-next-door-review.html",
+                "suggested_link_text": "Read the New York Times Review of American Murder: The Family Next Door"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/10/02/arts/american1/american1-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Bird Island",
+            "mpaa_rating": "",
+            "critics_pick": 1,
+            "byline": "Devika Girish",
+            "headline": "\u2018Bird Island\u2019 Review: Avian Therapy",
+            "summary_short": "This compact, whimsical film about a bird rehabilitation center in Switzerland is perched wryly between fiction and documentary.",
+            "publication_date": "2020-09-24",
+            "opening_date": "2020-09-24",
+            "date_updated": "2020-09-24 17:32:02",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/09/24/movies/bird-island-review.html",
+                "suggested_link_text": "Read the New York Times Review of Bird Island"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/09/25/arts/bird1/bird1-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        },
+        {
+            "display_title": "Kajillionaire",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Jeannette Catsoulis",
+            "headline": "\u2018Kajillionaire\u2019 Review: California Scheming",
+            "summary_short": "Miranda July\u2019s third feature follows a family of small-scale swindlers in a deceptively sunny Los Angeles.",
+            "publication_date": "2020-09-24",
+            "opening_date": "2020-09-25",
+            "date_updated": "2020-10-24 16:44:01",
+            "link": {
+                "type": "article",
+                "url": "http://www.nytimes.com/2020/09/24/movies/kajillionaire-review.html",
+                "suggested_link_text": "Read the New York Times Review of Kajillionaire"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2020/09/23/arts/kajillionaire1/kajillionaire1-mediumThreeByTwo210.jpg",
+                "width": 210,
+                "height": 140
+            }
+        }
+    ]
+}

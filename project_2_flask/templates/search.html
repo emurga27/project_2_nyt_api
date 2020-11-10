@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+</head>
+<body>
+    <h1>Movies Critic's Review</h1>
+    <form action=" " method="POST" name="reviews">
+        {{ form.csrf_token }} <!--security token-->
+        {{ form.hidden_tag() }}
+
+        <p><label>Pick a {{ form.reviews.label }}:</label>
+            {{ form.reviews }}<br><br>
+        </p>
+
+        <p><label>Pick a {{ form.choice.label }}:</label>
+            {{ form.choice }}<br><br>
+        </p>
+
+        <p><input type="submit" value="Search"></p>
+    </form>
+</body>
+</html>
